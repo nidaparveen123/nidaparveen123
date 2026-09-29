@@ -3,6 +3,7 @@
 ### Aspiring Frontend Developer | BCA Graduate | React Learner
 
 ### Visit my portfolio:  https://nidaparveen123.github.io/portfolio-website/
+### Visit my Astrology-website: https://nidaparveen123.github.io/Astrology-website/
 
 I am a BCA graduate passionate about web development and continuously improving my skills through hands-on projects. I enjoy building websites, learning modern technologies, and solving real-world problems through code.
 
